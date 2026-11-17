@@ -6,10 +6,11 @@ A responsive static portfolio website designed for GitHub Pages.
 - `index.html` — page content and structure
 - `styles.css` — responsive visual design
 - `script.js` — mobile navigation and current footer year
+- `assets/anuradha-goli.jpg` — profile portrait used in the navigation brandmark
 
 ## Publish with GitHub Pages
 1. Create a new GitHub repository, for example `anuradha-portfolio`.
-2. Upload `index.html`, `styles.css`, `script.js`, and this README to the repository root.
+2. Upload `index.html`, `styles.css`, `script.js`, the complete `assets` folder, and this README to the repository root.
 3. In the repository, open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select **main** and **/(root)**, then click **Save**.
